@@ -1,0 +1,10 @@
+export const FETCH_TEAMS= "FETCH_TEAMS";
+export const FETCH_TEAMINFO = "FETCH_TEAMINFO";
+export const FETCH_PROJECTINFO = "FETCH_PROJECTINFO";
+export const LOGIN_USER = "LOGIN_USER";
+export const LOGIN_USER_FAIL = "LOGIN_USER_FAIL";
+export const LOGIN_USER_SUCCESS = "LOGIN_USER_SUCCESS";
+
+export const LOGOUT = "LOGOUT";
+
+
